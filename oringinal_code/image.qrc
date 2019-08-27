@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>m_icon/assignment.png</file>
+        <file>m_icon/bell.png</file>
+        <file>m_icon/bell_fill.png</file>
+        <file>m_icon/bulb.png</file>
+        <file>m_icon/check-circle.png</file>
+        <file>m_icon/close-circle.png</file>
+        <file>m_icon/close-circle-fill.png</file>
+        <file>m_icon/edit.png</file>
+        <file>m_icon/findMan.png</file>
+        <file>m_icon/findTran.png</file>
+        <file>m_icon/folder-open.png</file>
+        <file>m_icon/lancher.png</file>
+        <file>m_icon/launch.png</file>
+        <file>m_icon/left-circle.png</file>
+        <file>m_icon/lock.png</file>
+        <file>m_icon/log_out.png</file>
+        <file>m_icon/manager.png</file>
+        <file>m_icon/max.png</file>
+        <file>m_icon/Menu_Staff register.png</file>
+        <file>m_icon/minus-circle.png</file>
+        <file>m_icon/minus-circle-fill.png</file>
+        <file>m_icon/money.png</file>
+        <file>m_icon/new.png</file>
+        <file>m_icon/newCode.png</file>
+        <file>m_icon/pic.png</file>
+        <file>m_icon/progressing.png</file>
+        <file>m_icon/publisher.png</file>
+        <file>m_icon/raven.png</file>
+        <file>m_icon/realName.png</file>
+        <file>m_icon/review.png</file>
+        <file>m_icon/right-circle.png</file>
+        <file>m_icon/save.png</file>
+        <file>m_icon/search.png</file>
+        <file>m_icon/search_click.png</file>
+        <file>m_icon/setting.png</file>
+        <file>m_icon/setting-fill.png</file>
+        <file>m_icon/trans.png</file>
+        <file>m_icon/user.png</file>
+        <file>m_icon/user-fill.png</file>
+        <file>m_icon/YUAN.png</file>
+        <file>m_icon/backgnd.png</file>
+        <file>black .png</file>
+        <file>m_icon/58a6bf16282d2.png</file>
+        <file>m_icon/fire.png</file>
+    </qresource>
+</RCC>
